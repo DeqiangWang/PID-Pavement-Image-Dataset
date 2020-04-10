@@ -9,6 +9,6 @@ To use the labled dataset. Please download the four labling rar files. And extra
 
 Please cite our publication in case of using our dataset
 
-•	Majidifard, H., Jin, P., Buttlar, W.G and Y. Adu-Gyamfi, 2020. PID: A New Benchmark Dataset to Classify and Densify Pavement Distresses, Journal of Transportation Research Record.
+•	Majidifard, H., Jin, P., Buttlar, W.G and Y. Adu-Gyamfi, 2020. Pavement Image Datasets: A New Benchmark Dataset to Classify and Densify Pavement Distresses, Journal of Transportation Research Record.
 
 •	Majidifard, H., Buttlar, W.G and Y. Adu-Gyamfi, 2020. Deep Machine Learning Approach to Develop a New Asphalt Pavement Condition Index, construction and building material.
